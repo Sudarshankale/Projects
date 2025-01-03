@@ -1,0 +1,17 @@
+.todo-container{
+  margin: 50px;
+}
+input{
+  width: 100%;
+}
+
+.Text{
+  text-align: left;
+}
+.row{
+  margin: 10px;
+}
+
+.btn{
+  min-width: 80px;
+}
